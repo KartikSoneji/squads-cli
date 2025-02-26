@@ -7,8 +7,8 @@
                                                   
 ```
 
-## Squads CLI
-Interact with the Squads Multisig Program through a simple CLI.
+## Squads v3 CLI
+Interact with Squads Protocol v3 via simple CLI.
 ### Requirements
 Nodejs version >= 16
 ### Installing the CLI tool
